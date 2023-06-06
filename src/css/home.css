@@ -20,3 +20,8 @@ nav{
     margin:   0;
     border-right: 2px solid white;
 }
+.button{
+    margin: auto 10px ;
+    height: 50px;
+    width: 200px;
+}
