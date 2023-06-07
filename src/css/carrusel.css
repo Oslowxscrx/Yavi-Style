@@ -12,7 +12,7 @@
     left: 10%;
     position: fixed;
     display: grid;
-    background-color: rgba(48, 48, 48, 0.836);
+    background-color: rgb(48, 48, 48);
     border-radius: 15px;
     grid-template-columns: 600px 280px 20px;
     -webkit-border-radius: 15px;
@@ -37,7 +37,7 @@
     text-align: center;
     background-color: none;
     color: white;
-    background-color: rgba(5, 5, 5, 0.247);
+    background-color: rgba(5, 5, 5, 0.696);
     -webkit-border-radius:  7px;
     -moz-border-radius:  7px;
     -ms-border-radius:  7px;
