@@ -23,7 +23,9 @@
 }
 
 .carusser_anterior , 
-.carusser_siguiente{
+.carusser_siguiente,
+.carusser_anterio , 
+.carusser_siguient{
     position: absolute;
     display: block;
    
@@ -41,12 +43,13 @@
     -ms-border-radius:  7px;
     -o-border-radius:  7px;
 }
-.carusser_anterior{
+.carusser_anterior,.carusser_anterio{
     left: -80px;
     
 
 }
-.carusser_anterior img , .carusser_siguiente img{
+.carusser_anterior img , .carusser_siguiente img
+,.carusser_anterio img , .carusser_siguient img{
     width: auto !important;
     text-align: left;
     display: block;
@@ -54,12 +57,12 @@
     
     
 }
-.carusser_siguiente{
+.carusser_siguiente , .carusser_siguient{
     right:  -80px;
 }
 .ruleta{
     
-   margin: 10%;
+   margin: auto 10%;
 }
 
 .carrusel_element img {
