@@ -136,12 +136,33 @@ footer{
 }
 
 .fondoNav{ 
-    background: linear-gradient(#1D1D29,  #343440);
+    background: rgb(66, 19, 97);
 }
 .fondoCompra{
-    background: #f0dbfc;
+    background: #c7c7c7;
 }
 .catalogo{
     background: #f0dbfc;
     font-family: fantasy;
 }
+.altura{
+    padding-top: 40px;
+    }
+
+    .fondopiepag{
+        padding-top: 30px;
+        background-color: rgb(87, 87, 87);
+      }
+      .silver-text {
+        color: rgb(73, 73, 73);
+    }
+    .fuente{
+        color: rgb(197, 199, 201);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      }
+      .colorletra{
+        color: rgb(139, 126, 126);
+      }
+      a:hover {
+        background-color: rgba(66, 19, 97);
+      }
