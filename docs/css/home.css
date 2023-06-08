@@ -134,3 +134,6 @@ footer{
 .close_tre{
     visibility: hidden;
 }
+.fondoNav{
+    background: linear-gradient(#1D1D29,  #343440);
+}
