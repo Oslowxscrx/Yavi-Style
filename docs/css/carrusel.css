@@ -1,4 +1,6 @@
-
+body{
+    width: 100%;
+}
 
 
 .carrusel_cont{
@@ -30,7 +32,7 @@
     display: block;
    
     height: 100%;
-    width: 60px;
+    width: 25px;
     border: none;
     border-radius:  7px;
     line-height: 30px;
@@ -44,7 +46,7 @@
     -o-border-radius:  7px;
 }
 .carusser_anterior,.carusser_anterio{
-    left: -80px;
+    left: -10%;
     
 
 }
@@ -58,16 +60,17 @@
     
 }
 .carusser_siguiente , .carusser_siguient{
-    right:  -80px;
+    right:  -10%;
 }
 .ruleta{
-    
+   
    margin: auto 10%;
 }
 
-.carrusel_element img {
-   
-    border-radius: 5px;
+.carrusel_element > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
    
 }
 
