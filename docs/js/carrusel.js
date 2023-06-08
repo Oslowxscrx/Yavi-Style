@@ -1,6 +1,6 @@
 window.addEventListener('load', function () {
     new Glider(document.querySelector('.caruserl_lista'), {
-        slidesToShow: 1,
+        slidesToShow: 4,
         
         draggable: true,
         
@@ -34,8 +34,8 @@ window.addEventListener('load', function () {
 })
 window.addEventListener('load', function () {
     new Glider(document.querySelector('.caruserl_list'), {
-        slidesToShow: 6,
-        slidesToScroll: 2,
+        slidesToShow: 1,
+      
         draggable: true,
         
         arrows: {
