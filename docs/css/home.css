@@ -124,8 +124,8 @@ body {
 
 footer{
     height: 200px;
-    color: white ; 
-   background-image: url(../img/foot.png);
+    color: rgb(0, 0, 0) ; 
+   background-image: url(./img/foot.png);
 }
 .contenedor{
     display: grid;
@@ -135,6 +135,13 @@ footer{
     visibility: hidden;
 }
 
-.fondoNav{
+.fondoNav{ 
     background: linear-gradient(#1D1D29,  #343440);
+}
+.fondoCompra{
+    background: #f0dbfc;
+}
+.catalogo{
+    background: #f0dbfc;
+    font-family: fantasy;
 }
