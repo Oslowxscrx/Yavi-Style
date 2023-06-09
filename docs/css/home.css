@@ -136,7 +136,10 @@ footer{
 }
 
 .fondoNav{ 
-    background: rgb(66, 19, 97);
+    background:url(../img/asdsadsad.png);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
 }
 .fondoCompra{
     background: #c7c7c7;
