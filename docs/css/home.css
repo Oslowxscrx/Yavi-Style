@@ -166,3 +166,8 @@ footer{
       a:hover {
         background-color: rgba(66, 19, 97);
       }
+
+    .compraExito{
+        background: cornflowerblue;
+        border-radius: 7px;
+    }
