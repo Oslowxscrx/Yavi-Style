@@ -1,10 +1,9 @@
 .titulo{
     padding-left: 5%;
-    font-family: fantasy;
 }
 body hr {
     height: 5px;
-  
+   background-color: rgb(15, 203, 255);
 }
 
 .bod{
@@ -24,32 +23,9 @@ body hr {
 
 
 /*clase de telas  --------------------------------------------------------------------------------------*/
-
+    
 .material{
     
-    display: grid;
-    grid-template-columns: 1fr 5fr;
-    border-radius: 15px;
-    border:  4px solid  black;
+    border:  5px solid  black;
 }
-.mat {
-    width: 0;
-    max-width: 500px;
-    min-width: 150px;
-}
-.mat{
-    display: inline-block;
-}
-
-.intro{
-
-    color: white;
-    background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-}
-.material{
-    margin-top: 10px;
-}
-
-                 
 
