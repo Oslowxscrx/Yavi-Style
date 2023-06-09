@@ -25,7 +25,12 @@ body hr {
 /*clase de telas  --------------------------------------------------------------------------------------*/
     
 .material{
-    
+    margin-top: 15px;
     border:  5px solid  black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
